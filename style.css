@@ -1,0 +1,94 @@
+
+
+body{background-image: url(img/colors.jpg);
+background-size:cover ; background-repeat: no-repeat;
+overflow-x: hidden;
+background-attachment: fixed;
+height: 100%;
+}
+  
+
+
+  header h3,header h1{color:rgba( 0,0,0,0.664);position: relative; text-align: center; 
+   font-size: 27px;}
+  
+  header h1{ letter-spacing: 8px;  background-color: rgba(255, 255, 255, 0.829);
+    width: 100%;
+    text-transform: uppercase;}
+
+ 
+  nav {
+  
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+
+  Nav a {
+    color:rgba(0, 0, 0, 0.644);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    padding-left: 14px;
+    padding-right: 14px;
+    text-decoration: none;
+    transition: all 0.5s;
+  }
+
+
+  nav a:hover {
+    background-color:rgb(255, 254, 255);
+ border-radius: 50%;
+  }
+}
+
+
+main { 
+  position: relative;
+  height: 205px;
+  color: white;
+  margin: 20px;
+}
+
+main h1,h2 {
+  color: rgb(0, 0, 0, 0.644);
+  font-size: 30px;
+  font-style: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 14px;
+  padding-right: 14px;
+  text-decoration: none;
+  text-align: center;
+;
+
+}
+
+main img {
+  position: relative;
+  left: 20%;
+}
+
+footer { 
+  background-color: ;
+  height: 100px;
+
+}
+
+footer a {
+ position: relative;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 70px;
+  font-weight: 900;
+  font-size: 20px;
+  font-display: bolder;
+}
+
+footer p{ position: relative;
+font-weight: 900;
+left:83%; top:40px;
+} 
+
+David Opoku   Date:sep/23/2020
